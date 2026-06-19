@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://antoneprill5.github.io/ssl-cn-mk-com-2/sitemap.xml
